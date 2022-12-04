@@ -1,0 +1,12 @@
+S:\сист.программированиеМДК\TaskManager-main\CommandsLib\bin\Debug\net6.0\TaskManagerCommandsLib.deps.json
+S:\сист.программированиеМДК\TaskManager-main\CommandsLib\bin\Debug\net6.0\TaskManagerCommandsLib.dll
+S:\сист.программированиеМДК\TaskManager-main\CommandsLib\bin\Debug\net6.0\TaskManagerCommandsLib.pdb
+S:\сист.программированиеМДК\TaskManager-main\CommandsLib\obj\Debug\net6.0\TaskManagerCommandsLib.csproj.AssemblyReference.cache
+S:\сист.программированиеМДК\TaskManager-main\CommandsLib\obj\Debug\net6.0\TaskManagerCommandsLib.GeneratedMSBuildEditorConfig.editorconfig
+S:\сист.программированиеМДК\TaskManager-main\CommandsLib\obj\Debug\net6.0\TaskManagerCommandsLib.AssemblyInfoInputs.cache
+S:\сист.программированиеМДК\TaskManager-main\CommandsLib\obj\Debug\net6.0\TaskManagerCommandsLib.AssemblyInfo.cs
+S:\сист.программированиеМДК\TaskManager-main\CommandsLib\obj\Debug\net6.0\TaskManagerCommandsLib.csproj.CoreCompileInputs.cache
+S:\сист.программированиеМДК\TaskManager-main\CommandsLib\obj\Debug\net6.0\TaskManagerCommandsLib.dll
+S:\сист.программированиеМДК\TaskManager-main\CommandsLib\obj\Debug\net6.0\refint\TaskManagerCommandsLib.dll
+S:\сист.программированиеМДК\TaskManager-main\CommandsLib\obj\Debug\net6.0\TaskManagerCommandsLib.pdb
+S:\сист.программированиеМДК\TaskManager-main\CommandsLib\obj\Debug\net6.0\ref\TaskManagerCommandsLib.dll
